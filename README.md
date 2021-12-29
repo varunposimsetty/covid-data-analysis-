@@ -14,7 +14,7 @@ The datasets were obatined from open source data repositories of the WHO and Min
 - seaborn
 - folium 
 - scipy
-- prophet ( an open source library created by facebook)
+- prophet [an open source library created by facebook](https://facebook.github.io/prophet/)
 
 
 
